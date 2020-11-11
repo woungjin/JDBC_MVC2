@@ -1,0 +1,11 @@
+ <Resource
+    auth="Container"
+    driverClassName = "드라이버이름"
+    url = "디비주소"
+    username = "접속아이디"
+    password = "비밀번호"
+    name = "jdbc/oracle"
+    type = "javax.sql.DataSource"
+    maxActive = "300"
+    maxWait = "1000"    
+    />
